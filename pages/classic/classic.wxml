@@ -1,2 +1,11 @@
-<!--pages/classic/classic.wxml-->
-<text>pages/classic/classic.wxml</text>
+<view class='container'>
+
+  <view class='header'>
+
+  <image src="/images/book/tip.png"></image>
+  
+
+  
+  </view>
+
+</view>
